@@ -71,4 +71,4 @@ ScamDetector ha sido desarrollado por ScamBusters.
 
 ## Licencia
 
-Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo [LICENSE](../LICENSE) para obtener más información.
+Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo [LICENSE](../LICENCE) para obtener más información.
