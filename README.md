@@ -27,7 +27,9 @@ git clone https://github.com/vmaya7/call_analyzer_generative_ai
 pip install -r requirements.txt
 ```
 
-3. Configura tus credenciales de AWS en el archivo de configuración `config.yml`.
+
+3. Configura AWS siguiendo los pasos [AQUI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
+
 
 ## Uso
 
