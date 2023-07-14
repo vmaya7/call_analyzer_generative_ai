@@ -68,7 +68,7 @@ def lambda_handler(event, context):
             print ("✅ JSON uploaded to wizeline-generative-hackaton-transcribed")
 
     except Exception as e:
-        printf(f"🔥 Error: {e}")
+        print(f"🔥 Error: {e}")
         raise e
 
 if __name__ == "__main__":
