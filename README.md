@@ -71,4 +71,4 @@ ScamDetector ha sido desarrollado por ScamBusters.
 
 ## Licencia
 
-Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/vmaya7/call_analyzer_generative_ai/edit/main/README.md) para obtener más información.
+Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/vmaya7/call_analyzer_generative_ai/edit/main/LICENCE) para obtener más información.
