@@ -2,8 +2,7 @@
 
 ScamDetector es una aplicación que utiliza inteligencia artificial para analizar grabaciones de llamadas telefónicas y determinar la probabilidad de que sean estafas. Proporciona un informe con una puntuación del 0 al 100, así como frases clave que indican posibles estafas, junto con recomendaciones y explicaciones detalladas sobre por qué se considera fraudulenta cada frase.
 
-![scamdetector_logo](https://github.com/vmaya7/call_analyzer_generative_ai/assets/47407743/e8caae5c-2862-46ac-ac62-1fbc9cfb1618)
-
+![scamdetector_logo-removebg-preview](https://github.com/vmaya7/call_analyzer_generative_ai/assets/47407743/4045bcab-9f91-4261-adfa-056606efff28)
 
 
 ## Cómo funciona
